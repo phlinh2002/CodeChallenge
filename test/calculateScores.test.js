@@ -57,6 +57,5 @@ describe('calculateScores', () => {
     expect(scores.femaleScore).toBe(5.3);
     expect(scores.maleScore).toBe(5.5);
     expect(scores.diverseScore).toBe(0);
-
-  })
+  });
 });
