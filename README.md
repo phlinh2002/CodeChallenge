@@ -3,7 +3,7 @@
 Author: Hoai Linh Pham
 Coding Challenge für Diverlyze als Software Developer Praktikum
 
-## Beschreibung: 
+## Beschreibung
 Eine REST-API mit Node und Express. Es nimmt die Antwort aus einem Umfragesystem und einen durchschnittlichen Score für jedes Geschlecht berechnen
 
 ## Funktionen
@@ -30,7 +30,9 @@ Der Server läuft dann unter http://localhost:4000.
 
 ## API Endpunkte
 GET/scores
+
 URL: `http://localhost:4000/scores/`
+
 Methode: GET
 
 ## Test
