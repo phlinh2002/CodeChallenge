@@ -1,6 +1,7 @@
 # CodeChallenge - REST-API Geschlecht- Score Berechnung
 
 Author: Hoai Linh Pham
+
 Coding Challenge für Diverlyze als Software Developer Praktikum
 
 ## Beschreibung
