@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 function calculateScores(){
-    const data = JSON.parse(fs.readFileSync('../CodeChallenge/data/challenge.answers.json','utf-8'));
+    const data = JSON.parse(fs.readFileSync('../data/challenge.answers.json','utf-8'));
 
     const scores = {
         female: [],
